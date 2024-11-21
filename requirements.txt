@@ -1,0 +1,8 @@
+Django
+djangorestframework
+six
+flake8
+drf-extra-fields
+django-filter
+django-environ
+python-dotenv
